@@ -1,0 +1,23 @@
+.sidebar-view-subreddit {
+    width: 312px;
+    height: 242px;
+    --post-line-color: #ccc;
+    margin-bottom: 10px;
+    overflow: hidden;
+    background-color: #1b262c;
+    color: #bbe1fa;
+    position: relative;
+    border-radius: 4px;
+    padding: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .sidebar-view-subreddit {
+    height: 280px;
+  }
+
+  hr.hr{
+    border-top: 0.5px solid white;
+    width: 100%;
+  }
