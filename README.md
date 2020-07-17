@@ -19,23 +19,23 @@ I love discovering and trying varieties of food [except shrimp 😅] I use reddi
 
 ## Build and Run 🚀
 1. Angular (Front-end)
- 1.1 To Build :
+    1.1 To Build :
 
     ```$ ng build```
     
- 1.2 To Run :
+    1.2 To Run :
 
     ```$ ng serve```
     
- 1.3 Production build :
+    1.3 Production build :
 
     ```$ ng build --prod```
     
 2. Spring MVC (Back-end)
- 2.1 Make sure MySQL is running(refer resources for tutorial).
+    2.1 Make sure MySQL is running(refer resources for tutorial).
  
- 2.2 Import springmvc into your IDE of choice and install required dependencies using [Maven](https://maven.apache.org/guides/), then run the application.
-     2.2.1 if you don't have maven installed, [install maven](https://maven.apache.org/install.html) 
+    2.2 Import springmvc into your IDE of choice and install required dependencies using [Maven](https://maven.apache.org/guides/), then run the application.
+        2.2.1 if you don't have maven installed, [install maven](https://maven.apache.org/install.html) 
 
 Note: Angular will be running on: localhost4200; Springmvc will be running on: localhost8080. (unless if the port is manually configured or if something is already in use of that ports).
     
