@@ -1,4 +1,4 @@
-## Fooddit - Reddit for Food 🍲
+## Fooddit - Reddit for Food 🍲 😋
 
 A minimal food discussion board application, the reddit for food. Includes visualizations of user stats, discussion feeds, posts, subfooddits along with voting and commenting features.
 
@@ -30,9 +30,18 @@ I love discovering and trying varieties of food [except shrimp 😅] I use reddi
 
     ```$ ng build --prod```
     
-  ## Resources 🙏
+ ## Other Requirements 🙃 
+ * [MySQL](https://www.mysql.com/) - Database used 
+ * [Mailtrap](https://mailtrap.io/) - SMPT server: safe email testing for staging and development.
+ 
+ ## Resources 🙏
+* [Angular Tutorial](https://youtu.be/k5E2AVpwsko) - A quick tutorial on angular that you can follow along with.
+* [Angular Docs](https://angular.io/docs/) - A great guide during developing phase.
+* [Spring Data](https://spring.io/projects/spring-data) - A good guide during development. 
+* [Spring Boot](https://spring.io/projects/spring-boot) - Great reference.
+* [Spring Security](https://spring.io/projects/spring-security) - A good point to get started.
+* [Spring-MySQL](https://springframework.guru/configuring-spring-boot-for-mysql/) - Nice tutorial for setting up mysql with spring.
 
-* 
 
  
 
