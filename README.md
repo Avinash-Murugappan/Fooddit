@@ -6,7 +6,7 @@ A minimal food discussion board application, the reddit for food. Includes visua
 ![Fooddit demo](https://youtu.be/bCYouzaFW8s)
 
 ## Inspiration 🤩
-I love discovering and trying varieties of food [except shrimp 😅] I use reddit a lot but never wondered how it was built, to solve my curiosity I decided to build a minimal and simple duiscussion board application, hence the birth of Fooddit. P.S.- I had a great learning curve working on this project.
+I love discovering and trying varieties of food [except shrimp 😅] I use reddit a lot but never wondered how it was built, to solve my curiosity I decided to build a minimal and simple duiscussion board application, hence the birth of Fooddit. <br> P.S.- I had a great learning curve working on this project.
 
 ## Installation 🛠️
 1. Install ![ng](https://nodejs.org/en/)
