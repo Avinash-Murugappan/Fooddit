@@ -31,7 +31,7 @@ I love discovering and trying varieties of food [except shrimp 😅] I use reddi
 
     ```$ ng build --prod```
     
-2. Spring MVC (Back-end)
+2. Spring MVC (Back-end)<br>
     2.1. Make sure MySQL is running(refer resources for tutorial).
  
     2.2. Import springmvc into your IDE of choice and install required dependencies using [Maven](https://maven.apache.org/guides/), then run the application.
